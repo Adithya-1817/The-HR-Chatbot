@@ -1,37 +1,11 @@
-# Python
+.env
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
 *.pyd
-*.pdb
-*.egg-info/
-.env
-*.env
-.env.*
+.Python
+*.db
 *.sqlite3
-
-# Jupyter Notebook Checkpoints
-.ipynb_checkpoints
-
-# System Files
-.DS_Store
-Thumbs.db
-
-# Virtual Environments
-.venv/
-venv/
-ENV/
-env/
-.pythonlibs/
-
-# Streamlit
-.streamlit/secrets.toml
-.streamlit/config.toml
-
-# Logs
 *.log
-*.log.*
-
-# macOS-specific
-.AppleDouble
-.LSOverride
+.DS_Store
+.env.*
